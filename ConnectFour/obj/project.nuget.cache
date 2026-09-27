@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QiSFTbnRno=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Blazor Web App\\ConnectFour\\ConnectFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
